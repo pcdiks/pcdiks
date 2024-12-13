@@ -2,7 +2,7 @@
 
 I'm an **Azure Architect** and I'm passionate about **cloud technologies**.<br>
 I currently live in **Ommen** and actively participate in local and community activities.<br>
-I am a volunteer for the local kids farm, i keep their systems up-and-running, check it out -> <a href="https://www.kinderboerderijommen.nl" target="_blank">kinderboerderijommen.nl</a>
+I am a volunteer for the local kids farm, i keep their systems up-and-running, check it out -> <a href="https://www.kinderboerderijommen.nl" target="_blank">kinderboerderijommen.nl</a><br>
 I share my love for technology through my blog <a href="https://diks.it/" target="_blank">diks.it</a>.
 
 ## Programming Languages
