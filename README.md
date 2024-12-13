@@ -1,9 +1,9 @@
 # Hi, I'm Paul-Christiaan 👋 🏊🚴🏃 💻
 
-I'm a **CTO** and a **Microsoft 365 Architect** and I'm passionate about **frontend technologies** and everything related to the cloud, especially **Microsoft Azure**.
-I currently live in **Zurich** and actively participate in local and international community activities and events.
-I share my love for technology through my blog <a href="https://dev.to/kasuken" target="_blank">dev.to/kasuken</a>.
-I also became Twitch Affiliate as a **live coder** and you can follow me at <a href="https://twitch.tv/kasuken" target="_blank">twitch.tv/kasuken</a> to write some code together. 
+I'm a **CTO** and a **Azure Architect** and I'm passionate about **cloud technologies**.<br>
+I currently live in **Ommen** and actively participate in local and community activities.<br>
+I am a volunteer for the local kids farm, i keep their systems up-and-running, check it out -> <a href="https://www.kinderboerderijommen.nl" target="_blank">kinderboerderijommen.nl</a>
+I share my love for technology through my blog <a href="https://diks.it/" target="_blank">diks.it</a>.
 
 <!--
 **pcdiks/pcdiks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
