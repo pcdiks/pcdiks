@@ -12,6 +12,7 @@ I share my love for technology through my blog <a href="https://diks.it/" target
 ![BICEP](https://img.shields.io/badge/💪🏻_bicep-red?style=for-the-badge)
 ![YAML](https://img.shields.io/badge/yaml-blue?style=for-the-badge)
 ![ARM](https://img.shields.io/badge/💪🏻_arm-red?style=for-the-badge)
+![TERRAFORM](https://img.shields.io/badge/terraform-blue?style=for-the-badge)
 
 ## ☁️ Cloud Services
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
